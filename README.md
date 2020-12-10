@@ -17,6 +17,3 @@ npm run build
 ```shell
 npm run bench
 ```
-
-## Silly example
-- [Have a look here](./example/example.js)
