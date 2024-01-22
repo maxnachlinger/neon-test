@@ -12,7 +12,7 @@ name = "fun_with_neon"
 crate-type = ["cdylib"]
 
 [build-dependencies]
-neon-build = "0.5.3"
+neon-build = "0.10.1"
 
 [dependencies]
-neon = "0.5.3"
+neon = "0.10.1"
